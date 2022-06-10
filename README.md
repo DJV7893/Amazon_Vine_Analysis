@@ -13,15 +13,18 @@
 ## Results:
 ---
 
-Visualization 1: Checkout Times for Users
+Our analysis of the Vine Program lead to the following results:
 
-<img width="1272" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/99817571/170549732-868a6779-ad16-42f0-99b2-3affa69984d6.png">
+  - There were a total of 7 Vine reviews and 105979 Non-Vine reviews.
 
-Peak checkout time for bikes last around 10 minutes and most rides end before 30 minutes.
+![Vine_Program_Y](https://user-images.githubusercontent.com/99817571/173091119-1108fb95-f7dc-48d5-8586-63edbe4f9f97.png)
 
-Visualization 2: Checkout Times by Gender
+![Vine_Program_N](https://user-images.githubusercontent.com/99817571/173091166-37d9a5f1-3cb7-4ad7-a219-aeb58d61a11c.png)
 
-<img width="1274" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/99817571/170549813-e575a142-cad9-4f90-a6a0-1669a981d42f.png">
+  - There were no 5-star reviews from Vine reviews and 67580 5-star reviews from Non-Vine reviews.
+
+
+
 
 Male checkout of bikes is substantially larger than for females with around 110k checkouts at its peak for males and around 35k for females. Both follow the same pattern with bike checkouts peaking at 10 minutes and most rides ending before 30 minutes.
 
